@@ -1,0 +1,20 @@
+{
+  "name": "mooc-shippeo",
+  "version": "1.0.0",
+  "description": "MOOC",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoctorDog/mooc-test.git"
+  },
+  "author": "DAB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoctorDog/mooc-test/issues"
+  },
+  "homepage": "https://github.com/DoctorDog/mooc-test#readme"
+}
