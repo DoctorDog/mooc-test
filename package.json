@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DoctorDog/mooc-test/issues"
   },
-  "homepage": "https://github.com/DoctorDog/mooc-test#readme"
+  "homepage": "https://github.com/DoctorDog/mooc-test#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
